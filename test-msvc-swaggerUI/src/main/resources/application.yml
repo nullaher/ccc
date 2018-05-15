@@ -1,0 +1,16 @@
+#server:
+#  port: 8810
+spring:
+  application.name: msvc-test-swaggerUI
+  main.banner-mode: 'off'
+#security:
+#  basic.enabled: true
+#  user:
+#    name: muser
+#    password: admin
+#logging:
+#  path: /home/muser/log/msvc/${spring.application.name}
+#  level:
+#    cn.uinpay.msvc: DEBUG
+#    org.springframework:
+#      cloud.config: DEBUG
